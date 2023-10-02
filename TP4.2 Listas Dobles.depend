@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694634561 source:c:\users\brisa ortiz\onedrive\escritorio\laboratorio ii\tp4.2 listas dobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
